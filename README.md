@@ -15,4 +15,5 @@ How to Play:
 - Player must avoid obstacles such as water, vehicles, and a train  
 - Press Tab or click on restart button after death to play again  
 
-## Demo
+## Demo  
+![Simple Demo](CrossTheRoadDemo.gif)
