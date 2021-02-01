@@ -1,6 +1,6 @@
 # CrossTheRoad  
 CrossTheRoad is a game **inspired by the mobile game "Crossy Road"**.  
-The game is about a player controlling the chicken to move forward to score points.  
+The objective of the game is to move the chicken forward while avoiding obstacles and collering stars to score points.  
 This is my second attempt of mimicking mobile games to learn and publish Unity games.  
 
 ## Technology  
